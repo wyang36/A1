@@ -3,3 +3,4 @@
 /dataset/*
 /images/*
 *.pdf
+.DS_Store
