@@ -1,6 +1,5 @@
 /.idea/*
 /__pycache__/*
-/dataset/*
 /images/*
 *.pdf
 .DS_Store
